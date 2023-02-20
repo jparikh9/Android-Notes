@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">AndroidNotes</string>
+    <string name="note_title">Title</string>
+    <string name="node_date">Date</string>
+    <string name="note_text">Note</string>
+    <string name="aboutMenuItem">About</string>
+    <string name="newnoteMenuItem">new note</string>
+    <string name="fileName">Notes.json</string>
+    <string name="noFile">No JSON Product File Present</string>
+    <string name="enter_title">enter title</string>
+    <string name="enter_description">Enter description</string>
+    <string name="saveNoteMenuItem">save</string>
+    <string name="android_notes_title">Android Notes</string>
+    <string name="copyright">© 2023, Jinit Parikh</string>
+    <string name="version">Version 1.0</string>
+</resources>
